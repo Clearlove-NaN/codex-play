@@ -10,7 +10,7 @@ if [[ -d /workspace/toolchains/config/godot ]]; then
  export JAVA_HOME="${JAVA_HOME:-/workspace/toolchains/jdk}"
 fi
 GODOT_BIN="${GODOT_BIN:-godot}"
-OUTPUT="${1:-$PWD/artifacts/IronMeridian-0.1.0.apk}"
+OUTPUT="${1:-$PWD/artifacts/IronMeridian-0.2.0.apk}"
 mkdir -p "$(dirname "$OUTPUT")"
 "$GODOT_BIN" --headless --editor --import --quit
 "$GODOT_BIN" --headless --export-debug Android "$OUTPUT"

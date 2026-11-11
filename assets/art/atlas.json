@@ -1,0 +1,146 @@
+{
+  "infantry": {
+    "file": "units.png",
+    "rect": [
+      0.0,
+      0.0,
+      443.5,
+      443.5
+    ]
+  },
+  "tank": {
+    "file": "units.png",
+    "rect": [
+      443.5,
+      0.0,
+      443.5,
+      443.5
+    ]
+  },
+  "artillery": {
+    "file": "units.png",
+    "rect": [
+      887.0,
+      0.0,
+      443.5,
+      443.5
+    ]
+  },
+  "fighter": {
+    "file": "units.png",
+    "rect": [
+      1330.5,
+      0.0,
+      443.5,
+      443.5
+    ]
+  },
+  "destroyer": {
+    "file": "units.png",
+    "rect": [
+      0.0,
+      443.5,
+      443.5,
+      443.5
+    ]
+  },
+  "heavy_tank": {
+    "file": "units.png",
+    "rect": [
+      443.5,
+      443.5,
+      443.5,
+      443.5
+    ]
+  },
+  "commando_alt": {
+    "file": "units.png",
+    "rect": [
+      887.0,
+      443.5,
+      443.5,
+      443.5
+    ]
+  },
+  "rocket_artillery": {
+    "file": "units.png",
+    "rect": [
+      1330.5,
+      443.5,
+      443.5,
+      443.5
+    ]
+  },
+  "commando": {
+    "file": "elites.png",
+    "rect": [
+      0.0,
+      0.0,
+      443.5,
+      443.5
+    ]
+  },
+  "tiger": {
+    "file": "elites.png",
+    "rect": [
+      443.5,
+      0.0,
+      443.5,
+      443.5
+    ]
+  },
+  "guards": {
+    "file": "elites.png",
+    "rect": [
+      887.0,
+      0.0,
+      443.5,
+      443.5
+    ]
+  },
+  "sherman": {
+    "file": "elites.png",
+    "rect": [
+      1330.5,
+      0.0,
+      443.5,
+      443.5
+    ]
+  },
+  "volunteer": {
+    "file": "elites.png",
+    "rect": [
+      0.0,
+      443.5,
+      443.5,
+      443.5
+    ]
+  },
+  "zero": {
+    "file": "elites.png",
+    "rect": [
+      443.5,
+      443.5,
+      443.5,
+      443.5
+    ]
+  },
+  "legion": {
+    "file": "elites.png",
+    "rect": [
+      887.0,
+      443.5,
+      443.5,
+      443.5
+    ]
+  },
+  "bersaglieri": {
+    "file": "elites.png",
+    "rect": [
+      1330.5,
+      443.5,
+      443.5,
+      443.5
+    ]
+  }
+}

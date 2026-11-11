@@ -1,1 +1,1 @@
-ab980b8a7774cd9cc67d859e5febd878085be7b0ead9a477f2cdbe02b3f60e48  IronMeridian-0.1.0.apk
+a1bbc36bf235f8c2ecfc757214eadcd64d48ff9eebb61870f6ea46ba7ee09d76  IronMeridian-0.2.0.apk
